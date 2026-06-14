@@ -1,0 +1,2 @@
+echo ".streamlit/" >> .gitignore
+echo "Luna-AI.code-workspace" >> .gitignore
